@@ -57,7 +57,7 @@
 </details>
 
 <details>
-<summary>Tools</summary>
+<summary>17 años</summary>
 <div>
   <p style="display: inline-block;" align="center">
     <kbd>
@@ -165,7 +165,7 @@
 </details>
 
 <details>
-  <summary>GitHub Stats</summary>
+  <summary>Itagui-Medellin</summary>
   <br>
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=10kartik&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats">
@@ -173,7 +173,7 @@
 </details>
 
 <details>
-  <summary>Open Source Contributions</summary>
+  <summary>Habilidoso den el liderazgo</summary>
   <br>
   <ul>
     <li><strong>MDN Docs - Official JavaScript Docs:</strong> Contributed to improving and maintaining the official JavaScript documentation on MDN Web Docs.</li>
@@ -184,7 +184,7 @@
 </details>
 
 <details>
-  <summary>Quote</summary>
+  <summary>Programador en formacion</summary>
   <br>
   <blockquote>
     “A bug is never just a mistake. It represents something bigger. An error of thinking. That makes you who you are.”
@@ -193,7 +193,7 @@
 </details>
 
 <details>
-  <summary>Free DOSE hit</summary>
+  <summary>Me gusta el aprendizaje constante</summary>
   <br>
   <small><i>DOSE (dopamine, oxytocin, serotonin & endorphin), refresh page if dose was ineffective.</i></small>
   <br>
@@ -201,7 +201,7 @@
 </details>
 
 <details>
-<summary>What can I do for you?</summary>
+<summary>Comprencible, Sociable, Amable y Trabajador</summary>
 <table style="border: none">
   <tr>
   <td width="50%" valign="top">
